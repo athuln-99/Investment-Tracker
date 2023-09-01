@@ -1,5 +1,5 @@
 # Getting Started
-
+Please check the _Investment Tracker Report.pdf_ for details about this repository.
 To run the app you will need to install Node.js and then npm.
 Here are instructions to do so:
 https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
