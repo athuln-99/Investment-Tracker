@@ -18,12 +18,12 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyBZfR2JcLKavjLnIjac-HehcOG3VAjIly4',
-  authDomain: 'investment-tracker-f7024.firebaseapp.com',
-  projectId: 'investment-tracker-f7024',
-  storageBucket: 'investment-tracker-f7024.appspot.com',
-  messagingSenderId: '670553908813',
-  appId: '1:670553908813:web:5d94403c71dd9e6e3d1e04',
+  apiKey: 'apiKey',
+  authDomain: 'authDomain',
+  projectId: 'projectId',
+  storageBucket: 'storageBucket',
+  messagingSenderId: 'messagingSenderId',
+  appId: 'appId',
 }
 
 // Initialize Firebase
